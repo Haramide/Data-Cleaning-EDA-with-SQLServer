@@ -1,7 +1,7 @@
-# Data-Cleaning-with-SQLServer
-These is a project i analysed and wrangled starting as a data analyst with AlexTheAnalyst tutorial video.
+### Data-Cleaning-with-SQLServer
+This is a project i analysed and wrangled starting as a data analyst with AlexTheAnalyst tutorial video.
 
-# Project-1 CovidDeath EDA
+### Project-1 CovidDeath EDA
 * Obtained CovidDeath Dataset. LINK #<https://1drv.ms/x/s!Aj9-mD0uRfMjhz2G42lIXfJS4zmq?e=BN33aX>
 * Prepared Dataset using Microsoft Excel i.e converting csv file to an Excel workbook file.
 * Import dataset into SQLServer.
