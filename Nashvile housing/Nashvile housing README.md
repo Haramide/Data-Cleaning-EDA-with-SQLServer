@@ -1,7 +1,7 @@
-# Data-Cleaning-with-SQLServer
+### Data-Cleaning-with-SQLServer
 These is a project i analysed and wrangled starting as a data analyst with AlexTheAnalyst tutorial video.
 
-# Project-2 NashvilleHousing cleaning
+### Project-2 NashvilleHousing cleaning
 
 * Obtained NashvilleHousing Dataset.
 * Prepared Dataset using Microsoft Excel i.e converting csv file to an Excel workbook file.
