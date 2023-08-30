@@ -1,5 +1,5 @@
 ### Data-Cleaning-with-SQLServer
-These is a project i analysed and wrangled starting as a data analyst with AlexTheAnalyst tutorial video.
+This is a project i analysed and wrangled starting as a data analyst with AlexTheAnalyst tutorial video.
 
 ### Project-2 NashvilleHousing cleaning
 
